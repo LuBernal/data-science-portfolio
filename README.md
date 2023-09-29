@@ -20,9 +20,9 @@ I cleaned and preprocessed the data, performed exploratory data analysis, statis
 
 ## [Backpacking and Data Science: Hostel Analysis and Trip Price Estimator](./Hostel%20in%20Backpacked%20Countries/)
 
-**Programming Language:** Python
+### **Programming Language:** Python
 
-**Tools Used:** *Requests, BeautifulSoup, Pandas, Scikit-Learn (linear_model, Lasso, Ridge), Pingouin, Matplotlib, Seaborn, Geopandas, Shapely, Numpy*
+### **Tools Used:** *Requests, BeautifulSoup, Pandas, Scikit-Learn (linear_model, Lasso, Ridge), Pingouin, Matplotlib, Seaborn, Geopandas, Shapely, Numpy*
 
 In 2022, I fulfilled a long-held dream of backpacking through South America, particularly Colombia, my father's homeland. During my trip, I stayed in hostels extensively. After returning, I decided to analyze hostel data from the countries I visited, scraped from the Hostelworld platform.
 
@@ -31,9 +31,9 @@ I cleaned and validated the data, conducting analyses on topics such as backpack
 
 ## [Spanish Autonomies WordCloud using NLP](./WordCloud%20for%20Autonomies/)
 
-**Programming Language:** Python
+### **Programming Language:** Python
 
-**Tools Used:** *TfidfVectorizer, WikipediaAPI, Spacy, WordCloud, Pandas, Matplotlib, Seaborn, Geopandas, Numpy, Requests, BeautifulSoup, PIL*
+### **Tools Used:** *TfidfVectorizer, WikipediaAPI, Spacy, WordCloud, Pandas, Matplotlib, Seaborn, Geopandas, Numpy, Requests, BeautifulSoup, PIL*
 
 My growing interest in NLP led me to undertake this project, inspired by the ["Most Recurring Word on Each Country’s Wikipedia Page"](https://brilliantmaps.com/recurring-wikipedia/) map from the book *Brilliant Maps*. I aimed to create a similar visualization but with more words, highlighting cultural differences within the autonomous communities in Spain.
 
@@ -42,9 +42,9 @@ I scraped text from Wikipedia articles of each autonomy using Wikipedia's API, a
 
 ## [Traffic Recipes](./Recipe%20App%20Traffic/)
 
-**Programming Language:** Python
+### **Programming Language:** Python
 
-**Tools Used:** *Pandas, Matplotlib, Seaborn, Missingno, Numpy, Scikit-Learn (LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, GridSearchCV)*
+### **Tools Used:** *Pandas, Matplotlib, Seaborn, Missingno, Numpy, Scikit-Learn (LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, GridSearchCV)*
 
 This project was completed to earn the Data Science Professional certificate at DataCamp.com. I analyzed a dataset from a fictional recipe app, including data cleaning, exploratory data analysis (EDA), and developing a machine learning model to predict whether displaying recipes on the main page would increase app traffic. 
 
