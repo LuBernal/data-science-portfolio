@@ -13,7 +13,7 @@ Welcome to my Data Science and Data Analysis portfolio! This collection showcase
 
 ### **Tools Used:** *Pandas, Matplotlib, Seaborn, Pickle, Scipy.stats, Numpy, DateTime, XGBoost, Scikit-Learn (RandomForestClassifier, RandomizedSearchCV)*
 
-<img align="left" width="250" height="250" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/birds.png"> A close friend of mine works at a natural bird reserve where they set up a feeding station to support the local bird population. They record each bird's visit, including species and behavior. Intrigued, I proposed to analyze their data to gain insights and practice my data science skills. With their consent, I embarked on this project. 
+<img align="left" width="220" height="220" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/birds.png"> A close friend of mine works at a natural bird reserve where they set up a feeding station to support the local bird population. They record each bird's visit, including species and behavior. Intrigued, I proposed to analyze their data to gain insights and practice my data science skills. With their consent, I embarked on this project. 
 
 I cleaned and preprocessed the data, performed exploratory data analysis, statistical analysis, and created visualizations. Additionally, I developed a machine learning model with XGBoost and RFC to predict bird species based on observed features during each visit.
 
@@ -24,7 +24,7 @@ I cleaned and preprocessed the data, performed exploratory data analysis, statis
 
 ### **Tools Used:** *Requests, BeautifulSoup, Pandas, Scikit-Learn (linear_model, Lasso, Ridge), Pingouin, Matplotlib, Seaborn, Geopandas, Shapely, Numpy*
 
-<img align="right" width="205" height="250" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/llama.jpg"> In 2022, I fulfilled a long-held dream of backpacking through South America, particularly Colombia, my father's homeland. During my trip, I stayed in hostels extensively. After returning, I decided to analyze hostel data from the countries I visited, scraped from the Hostelworld platform.
+<img align="right" width="170" height="200" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/llama.jpg"> In 2022, I fulfilled a long-held dream of backpacking through South America, particularly Colombia, my father's homeland. During my trip, I stayed in hostels extensively. After returning, I decided to analyze hostel data from the countries I visited, scraped from the Hostelworld platform.
 
 I cleaned and validated the data, conducting analyses on topics such as backpacker density per country and price ranges among destinations. Additionally, I created a tool that uses a regression model to estimate the expenses a backpacker can expect based on their destination and desired hostel qualities.
 
@@ -35,7 +35,7 @@ I cleaned and validated the data, conducting analyses on topics such as backpack
 
 ### **Tools Used:** *TfidfVectorizer, WikipediaAPI, Spacy, WordCloud, Pandas, Matplotlib, Seaborn, Geopandas, Numpy, Requests, BeautifulSoup, PIL*
 
-My growing interest in NLP led me to undertake this project, inspired by the ["Most Recurring Word on Each Country’s Wikipedia Page"](https://brilliantmaps.com/recurring-wikipedia/) map from the book *Brilliant Maps*. I aimed to create a similar visualization but with more words, highlighting cultural differences within the autonomous communities in Spain.
+<img align="left" width="190" height="200" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/spain_wc.PNG"> My growing interest in NLP led me to undertake this project, inspired by the ["Most Recurring Word on Each Country’s Wikipedia Page"](https://brilliantmaps.com/recurring-wikipedia/) map from the book *Brilliant Maps*. I aimed to create a similar visualization but with more words, highlighting cultural differences within the autonomous communities in Spain.
 
 I scraped text from Wikipedia articles of each autonomy using Wikipedia's API, applied NLP preprocessing techniques (lemmatization, stopwords removal), and used TF-IDF vectorization to emphasize word frequency differences. The results were transformed into word clouds and plotted on a map of Spain, highlighting each autonomy's unique word cloud.
 
@@ -46,7 +46,7 @@ I scraped text from Wikipedia articles of each autonomy using Wikipedia's API, a
 
 ### **Tools Used:** *Pandas, Matplotlib, Seaborn, Missingno, Numpy, Scikit-Learn (LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, GridSearchCV)*
 
-This project was completed to earn the Data Science Professional certificate at DataCamp.com. I analyzed a dataset from a fictional recipe app, including data cleaning, exploratory data analysis (EDA), and developing a machine learning model to predict whether displaying recipes on the main page would increase app traffic. 
+<img align="right" width="150" height="170" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/recipes.png"> This project was completed to earn the Data Science Professional certificate at DataCamp.com. I analyzed a dataset from a fictional recipe app, including data cleaning, exploratory data analysis (EDA), and developing a machine learning model to predict whether displaying recipes on the main page would increase app traffic. 
 
 It also involved presenting my findings to DataCamp.
 
