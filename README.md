@@ -35,7 +35,7 @@ I cleaned and validated the data, conducting analyses on topics such as backpack
 
 ### **Tools Used:** *TfidfVectorizer, WikipediaAPI, Spacy, WordCloud, Pandas, Matplotlib, Seaborn, Geopandas, Numpy, Requests, BeautifulSoup, PIL*
 
-<img align="left" width="220" height="205" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/spain_wc.PNG"> My growing interest in NLP led me to undertake this project, inspired by the ["Most Recurring Word on Each Country’s Wikipedia Page"](https://brilliantmaps.com/recurring-wikipedia/) map from the book *Brilliant Maps*. I aimed to create a similar visualization but with more words, highlighting cultural differences within the autonomous communities in Spain.
+<img align="left" width="230" height="215" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/spain_wc.PNG"> My growing interest in NLP led me to undertake this project, inspired by the ["Most Recurring Word on Each Country’s Wikipedia Page"](https://brilliantmaps.com/recurring-wikipedia/) map from the book *Brilliant Maps*. I aimed to create a similar visualization but with more words, highlighting cultural differences within the autonomous communities in Spain.
 
 I scraped text from Wikipedia articles of each autonomy using Wikipedia's API, applied NLP preprocessing techniques (lemmatization, stopwords removal), and used TF-IDF vectorization to emphasize word frequency differences. The results were transformed into word clouds and plotted on a map of Spain, highlighting each autonomy's unique word cloud.
 
