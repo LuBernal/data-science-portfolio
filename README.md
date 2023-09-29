@@ -46,7 +46,7 @@ I scraped text from Wikipedia articles of each autonomy using Wikipedia's API, a
 
 ### **Tools Used:** *Pandas, Matplotlib, Seaborn, Missingno, Numpy, Scikit-Learn (LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, GridSearchCV)*
 
-<img align="right" width="170" height="150" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/recipes.png"> This project was completed to earn the Data Science Professional certificate at DataCamp.com. I analyzed a dataset from a fictional recipe app, including data cleaning, exploratory data analysis (EDA), and developing a machine learning model to predict whether displaying recipes on the main page would increase app traffic. It also involved presenting my findings to DataCamp. This was my first complete and independent data science project.
+<img align="right" width="217" height="152" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/recipes.png"> This project was completed to earn the Data Science Professional certificate at DataCamp.com. I analyzed a dataset from a fictional recipe app, including data cleaning, exploratory data analysis (EDA), and developing a machine learning model to predict whether displaying recipes on the main page would increase app traffic. It also involved presenting my findings to DataCamp. This was my first complete and independent data science project.
 
 
 
