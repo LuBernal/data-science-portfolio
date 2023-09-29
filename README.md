@@ -14,7 +14,6 @@ A close friend of mine works at a natural bird reserve where they set up a feedi
 I cleaned and preprocessed the data, performed exploratory data analysis, statistical analysis, and created visualizations. Additionally, I developed a machine learning model to predict bird species based on observed features during each visit.
 
 **Programming Language:** Python
-
 **Tools Used:** *Pandas, Matplotlib, Seaborn, Pickle, Scipy.stats, Numpy, DateTime, XGBoost, Scikit-Learn (RandomForestClassifier, RandomizedSearchCV)*
 
 ## Backpacking and Data Science: Hostel Analysis and Trip Price Estimation
@@ -24,7 +23,6 @@ In 2022, I fulfilled a long-held dream of backpacking through South America, par
 I cleaned and validated the data, conducting analyses on topics such as backpacker density per country and price ranges among destinations. Additionally, I created a tool that uses a regression model to estimate the expenses a backpacker can expect based on their destination and desired hostel qualities.
 
 **Programming Language:** Python
-
 **Tools Used:** *Requests, BeautifulSoup, Pandas, Scikit-Learn (linear_model, Lasso, Ridge), Pingouin, Matplotlib, Seaborn, Geopandas, Shapely, Numpy*
 
 ## Spanish Autonomies WordCloud using NLP
@@ -34,7 +32,6 @@ My growing interest in NLP led me to undertake this project, inspired by the ["M
 I scraped text from Wikipedia articles of each autonomy using Wikipedia's API, applied NLP preprocessing techniques (lemmatization, stopwords removal), and used TF-IDF vectorization to emphasize word frequency differences. The results were transformed into word clouds and plotted on a map of Spain, highlighting each autonomy's unique word cloud.
 
 **Programming Language:** Python
-
 **Tools Used:** *TfidfVectorizer, WikipediaAPI, Spacy, WordCloud, Pandas, Matplotlib, Seaborn, Geopandas, Numpy, Requests, BeautifulSoup, PIL*
 
 ## Traffic Recipes
@@ -44,7 +41,6 @@ This project was completed to earn the Data Science Professional certificate at 
 It also involved presenting my findings to DataCamp.
 
 **Programming Language:** Python
-
 **Tools Used:** *Pandas, Matplotlib, Seaborn, Missingno, Numpy, Scikit-Learn (LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, GridSearchCV)*
 
 # Competencies
