@@ -24,7 +24,7 @@ I cleaned and preprocessed the data, performed exploratory data analysis, statis
 
 ### **Tools Used:** *Requests, BeautifulSoup, Pandas, Scikit-Learn (linear_model, Lasso, Ridge), Pingouin, Matplotlib, Seaborn, Geopandas, Shapely, Numpy*
 
-<img align="right" width="150" height="250" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/llama.jpg"> In 2022, I fulfilled a long-held dream of backpacking through South America, particularly Colombia, my father's homeland. During my trip, I stayed in hostels extensively. After returning, I decided to analyze hostel data from the countries I visited, scraped from the Hostelworld platform.
+<img align="right" width="205" height="250" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/llama.jpg"> In 2022, I fulfilled a long-held dream of backpacking through South America, particularly Colombia, my father's homeland. During my trip, I stayed in hostels extensively. After returning, I decided to analyze hostel data from the countries I visited, scraped from the Hostelworld platform.
 
 I cleaned and validated the data, conducting analyses on topics such as backpacker density per country and price ranges among destinations. Additionally, I created a tool that uses a regression model to estimate the expenses a backpacker can expect based on their destination and desired hostel qualities.
 
