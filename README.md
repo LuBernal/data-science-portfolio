@@ -35,7 +35,7 @@ I cleaned and validated the data, conducting analyses on topics such as backpack
 
 ### **Tools Used:** *TfidfVectorizer, WikipediaAPI, Spacy, WordCloud, Pandas, Matplotlib, Seaborn, Geopandas, Numpy, Requests, BeautifulSoup, PIL*
 
-<img align="left" width="190" height="200" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/spain_wc.PNG"> My growing interest in NLP led me to undertake this project, inspired by the ["Most Recurring Word on Each Country’s Wikipedia Page"](https://brilliantmaps.com/recurring-wikipedia/) map from the book *Brilliant Maps*. I aimed to create a similar visualization but with more words, highlighting cultural differences within the autonomous communities in Spain.
+<img align="left" width="200" height="190" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/spain_wc.PNG"> My growing interest in NLP led me to undertake this project, inspired by the ["Most Recurring Word on Each Country’s Wikipedia Page"](https://brilliantmaps.com/recurring-wikipedia/) map from the book *Brilliant Maps*. I aimed to create a similar visualization but with more words, highlighting cultural differences within the autonomous communities in Spain.
 
 I scraped text from Wikipedia articles of each autonomy using Wikipedia's API, applied NLP preprocessing techniques (lemmatization, stopwords removal), and used TF-IDF vectorization to emphasize word frequency differences. The results were transformed into word clouds and plotted on a map of Spain, highlighting each autonomy's unique word cloud.
 
@@ -46,9 +46,9 @@ I scraped text from Wikipedia articles of each autonomy using Wikipedia's API, a
 
 ### **Tools Used:** *Pandas, Matplotlib, Seaborn, Missingno, Numpy, Scikit-Learn (LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, GridSearchCV)*
 
-<img align="right" width="150" height="170" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/recipes.png"> This project was completed to earn the Data Science Professional certificate at DataCamp.com. I analyzed a dataset from a fictional recipe app, including data cleaning, exploratory data analysis (EDA), and developing a machine learning model to predict whether displaying recipes on the main page would increase app traffic. 
+<img align="right" width="170" height="150" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/recipes.png"> This project was completed to earn the Data Science Professional certificate at DataCamp.com. I analyzed a dataset from a fictional recipe app, including data cleaning, exploratory data analysis (EDA), and developing a machine learning model to predict whether displaying recipes on the main page would increase app traffic. It also involved presenting my findings to DataCamp. This was my first complete and independent data science project.
 
-It also involved presenting my findings to DataCamp.
+
 
 
 # Competencies
