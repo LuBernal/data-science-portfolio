@@ -13,7 +13,7 @@ Welcome to my Data Science and Data Analysis portfolio! This collection showcase
 
 ### **Tools Used:** *Pandas, Matplotlib, Seaborn, Pickle, Scipy.stats, Numpy, DateTime, XGBoost, Scikit-Learn (RandomForestClassifier, RandomizedSearchCV)*
 
-A close friend of mine works at a natural bird reserve where they set up a feeding station to support the local bird population. They record each bird's visit, including species and behavior. Intrigued, I proposed to analyze their data to gain insights and practice my data science skills. With their consent, I embarked on this project. 
+<img align="left" width="250" height="150" src="https://github.com/LuBernal/data-science-portfolio/blob/main/Other/Images/birds.png"> A close friend of mine works at a natural bird reserve where they set up a feeding station to support the local bird population. They record each bird's visit, including species and behavior. Intrigued, I proposed to analyze their data to gain insights and practice my data science skills. With their consent, I embarked on this project. 
 
 I cleaned and preprocessed the data, performed exploratory data analysis, statistical analysis, and created visualizations. Additionally, I developed a machine learning model with XGBoost and RFC to predict bird species based on observed features during each visit.
 
