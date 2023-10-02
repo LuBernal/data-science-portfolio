@@ -20,7 +20,7 @@ In this initial phase, I assessed and cleaned the data, making necessary adjustm
 
 The EDA notebook was dedicated to the exploration of various variables. We delved into intriguing patterns and relationships among them. A highlight was uncovering the presence of different bird species at the feeding station and their behavioral changes during breeding seasons.
 
-3. [Multi-class Classification Model for Birds 🦉🤖] (https://github.com/LuBernal/data-science-portfolio/blob/main/Bird%20Feeding%20Station/Multi-class%20classification%20model%20for%20Birds.ipynb)
+3. [Multi-class Classification Model for Birds 🦉🤖](https://github.com/LuBernal/data-science-portfolio/blob/main/Bird%20Feeding%20Station/Multi-class%20classification%20model%20for%20Birds.ipynb)
 
 In this final milestone, I developed a predictive model to identify bird species based on their behavior at the feeding station. The model achieved an impressive overall accuracy of 87%, enabling us to classify different bird species accurately.
 
