@@ -1,5 +1,9 @@
 # Hostel Analysis and Price Predictor for Backpacker's Paradise 🌎🎒
 
+**Programming Language: Python**
+
+Tools Used: *Requests, BeautifulSoup, Pandas, Scikit-Learn (linear_model, Lasso, Ridge), Pingouin, Matplotlib, Seaborn, Geopandas, Shapely, Numpy*
+
 In the year 2022, I had the incredible opportunity to embark on a long-awaited adventure backpacking through South America, with a special focus on Colombia, my father's homeland which I had never visited until then. Throughout my journey, I immersed myself in the vibrant culture, beautiful landscapes, and, like any seasoned backpacker, stayed in shared dorms at hostels. Upon my return, I was determined to undertake a data science project related to my trip. That's when the idea struck me - why not gather data from hostels across the countries I traversed, analyze it, and create a tool that provides backpackers with price estimates for their accommodation? 🏞️🌍
 
 ## Project Milestones 🏁

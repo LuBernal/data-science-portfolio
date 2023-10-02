@@ -1,4 +1,8 @@
-# Bird Feeding Station 🐦📊
+# Bird Feeding Station Analysis 🐦📊
+
+**Programming Language: Python**
+
+Tools Used: *Pandas, Matplotlib, Seaborn, Pickle, Scipy.stats, Numpy, DateTime, XGBoost, Scikit-Learn (RandomForestClassifier, RandomizedSearchCV)*
 
 Welcome to my Data Science Portfolio project where I had the unique opportunity to collaborate with a close friend working at a natural bird reserve! 🌿🦜
 
