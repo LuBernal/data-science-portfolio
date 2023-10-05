@@ -60,8 +60,19 @@ I have experience in the following areas:
 
 # Certificates 📜
 
+### DataCamp Certificates:
+
 - [Professional Data Scientist Certification (Python)](https://www.datacamp.com/certificate/DS0024387204625)
 - [Associate Data Scientist Certification (Python)](https://www.datacamp.com/certificate/DSA0016305747616)
 - [Associate Data Analyst Certification (SQL)](https://www.datacamp.com/certificate/DS0024387204625)
+
+### DataCamp Course Statements of Accomplishment:
+
+- [Large Language Models (LLMs) Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/be9a5f4475beb3b43e4765d5a5ec6505fbe5cffd)
+- [Feature Engineering for NLP in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/f9a08c2ae6de6f01e3051a139eab5b5fdcd6f806)
+- [Introduction to Natural Language Processing in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/a6896252c6181077d5a5a102f9cae7ef8369aca7)
+- [Object-Oriented Programming in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/66ef66b527cf18013c9ea3f20ba21b26fbf599a2)
+
+#
 
 Feel free to explore the projects and reach out if you have any questions or opportunities to collaborate! 📩🤝
