@@ -70,6 +70,7 @@ I have experience in the following areas:
 
 
 - [Introduction to TensorFlow in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9eac3e64170b91c06994ffa5124496ab552fd786)
+- [Introduction to Deep Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/da6379aa6daf724fb0454e78eccefceb151be508)
 - [Feature Engineering for NLP in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/f9a08c2ae6de6f01e3051a139eab5b5fdcd6f806)
 - [Introduction to Natural Language Processing in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/a6896252c6181077d5a5a102f9cae7ef8369aca7)
 - [Object-Oriented Programming in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/66ef66b527cf18013c9ea3f20ba21b26fbf599a2)
