@@ -76,7 +76,7 @@ I have experience in the following areas:
 - [Object-Oriented Programming in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/66ef66b527cf18013c9ea3f20ba21b26fbf599a2)
 - [Large Language Models (LLMs) Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/be9a5f4475beb3b43e4765d5a5ec6505fbe5cffd)
 - [Understanding Cloud Computing](https://www.datacamp.com/completed/statement-of-accomplishment/course/7c2fc3b8a00445c8a7e9c8fd3e1a16763075d43d)
-- [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/completed/statement-of-accomplishment/course/d14528d41f526197de8676e21bf06bfa0638e6d4)
+- [Introduction to Shell](https://www.datacamp.com/completed/statement-of-accomplishment/course/7cba266c9f4651377dc9c70b7d10345bc0f9fd3d)
 
 #
 
