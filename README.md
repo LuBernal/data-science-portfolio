@@ -65,6 +65,7 @@ I have experience in the following areas:
 - [Professional Data Scientist Certification (Python)](https://www.datacamp.com/certificate/DS0024387204625)
 - [Associate Data Scientist Certification (Python)](https://www.datacamp.com/certificate/DSA0016305747616)
 - [Associate Data Analyst Certification (SQL)](https://www.datacamp.com/certificate/DS0024387204625)
+- [Machine Learning Scientist with Python (Statement of Accomplishment)](https://www.datacamp.com/completed/statement-of-accomplishment/track/0bdc48b85d78f21f09e17564c21f706645330748)
 
 ### Statement of Accomplishment for additional courses:
 
